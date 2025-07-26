@@ -1,5 +1,5 @@
 /**
- * @description A generic neuronal network layer
+ * @description A generic neural network layer
  * @class NetworkLayer
  */
 class NetworkLayer {
